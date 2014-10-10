@@ -1,0 +1,31 @@
+{
+  "name": "DIXI",
+  "version": "0.0.0",
+  "description": "A set of little utils to work with PIXI",
+  "main": "bin/DIXI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xperiments/DIXI.git"
+  },
+  "keywords": [
+    "pixi",
+    "pixijs",
+    "canvas",
+    "webgl"
+  ],
+  "author": "Pedro Casaubon <xperiments@gmail.com> (http://www.xperiments.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xperiments/DIXI/issues"
+  },
+  "homepage": "https://github.com/xperiments/DIXI",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ts": "^1.12.1"
+  }
+}
